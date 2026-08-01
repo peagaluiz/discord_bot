@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# YouTube player cache dumped by ytdl lib
+*-player-script.js
